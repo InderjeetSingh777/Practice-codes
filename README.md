@@ -1,2 +1,5 @@
-# Practice-codes
-Containing c++ codes related to data structure and algorithms
+# Practice-codes:
+
+Containing c++ programs related to data structure and algorithms.
+
+
