@@ -1,4 +1,4 @@
-//Problem statement:
+//Problem statement:A functional problem
 //Given K sorted lists of integers of size N each, find the smallest range that includes at least one element from each of the K lists.
 // If more than one such range's are found, print the first such range found.
 //Input:
@@ -20,6 +20,7 @@
 
 // you are required to complete this function
 // function should print the required range
+//logic involves the contribution from geeks for geeks editorial
 #include<queue>
 
 #define p  pair<int,pair<int,int> >
